@@ -1,1 +1,1 @@
-Solutions to exercises for the FullStackOpen course offered by the University of Helsinki
+Solutions to exercises for the Full stack open 2020 course offered by the University of Helsinki
